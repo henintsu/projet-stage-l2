@@ -1,0 +1,7 @@
+Uninstaller	32,615	61%
+
+Result :
+    Number of files: 1
+    Total uncompressed size: 82467 bytes
+    Total compressed size: 32615 bytes
+    Install program size: 192794 bytes

@@ -1,0 +1,8 @@
+Uninstaller	32,774	61%
+python.py
+
+Result :
+    Number of files: 2
+    Total uncompressed size: 82585 bytes
+    Total compressed size: 32775 bytes
+    Install program size: 197185 bytes
